@@ -30,6 +30,7 @@ Before running the model, you need to compile the resources that you'll use.
 The compile command is:
 ```
 make compile_erdpole
+make compile_evonet
 ```
 
 ## Running
