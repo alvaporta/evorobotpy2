@@ -23,7 +23,7 @@ packaging
 pathspec
 Pillow
 platformdirs
-pyglet
+pyglet==1.5
 pyparsing
 python-dateutil
 regex
