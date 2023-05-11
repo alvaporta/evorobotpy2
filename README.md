@@ -64,7 +64,7 @@ For an introduction to the theory and to state-of-the-art research in this areas
 Please use this BibTeX to cite this repository in your publications:
 ```
 @misc{evorobotpy2ne,
-  author = {Arthur H. Bianchini},
+  author = {Arthur H. Bianchini, Brenda S. Machado},
   title = {A stripped-down version of evorobotpy2 with OpenAI-ES-NE and some experiments results.},
   year = {2023},
   publisher = {GitHub},
