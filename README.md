@@ -1,7 +1,7 @@
 # evorobotpy2
 
 ## About
-A stripped-down version of evorobotpy2 with OpenAI-ES-NE and some experiments results.
+A stripped-down version of evorobotpy2 with OpenAI-ES-NE and some experiments results. The updated repository can be accessed [here](https://github.com/Brenda-Machado/stripped-down-version-of-evorobotpy2).
 
 ## Setup
 
